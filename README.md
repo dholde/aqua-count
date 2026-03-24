@@ -144,7 +144,7 @@ Statt nativer Apps kann eine Progressive Web App (PWA) gebaut werden. Diese läu
 
 | Posten | Kosten |
 | ------ | -----: |
-| Cloud-Server (z. B. Hetzner) | ~5–10 €/Monat |
+| Cloud-Server (z. B. Hetzner) | ~20–40 €/Monat |
 | Domain (z. B. aqua-count.de) | ~10–15 €/Jahr |
 | Apple Developer Account (nur bei nativer iOS-App) | 99 €/Jahr |
 | Google Play Developer (nur bei nativer Android-App) | 25 € einmalig |
